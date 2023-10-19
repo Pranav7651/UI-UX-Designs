@@ -6,3 +6,4 @@ All the UI designs below are created using Adobe XD.
 
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pranav45266236)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-0a7954226/)
